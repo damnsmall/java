@@ -1,5 +1,5 @@
 FROM alpine:3.3
-MAINTAINER kenners <knutenners+git@gmail.com>
+MAINTAINER kenners <knutenners+damnsmall@gmail.com>
 
 LABEL arch=x86_64 \
     java.version="1.7.0_79" \
